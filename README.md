@@ -14,9 +14,6 @@ Respostas Rápidas: Chococat está sempre pronto para responder suas perguntas.
 Interação Amigável: Com um toque de fofura, ele faz da interação uma experiência agradável.
 Personalidade Carinhosa: O Chococat adora conversar e aprender com você!
 
-### 📜 Licença
-Este projeto foi baseado no repositório de [Natanimn](https://github.com/natanimn), e todos os direitos e licenças são reservados.
-
 **🐈‍⬛ Converse com o Chococat aqui!**
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chocolstcatbot)
